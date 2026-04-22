@@ -43,7 +43,7 @@ const testimonials = [
     event: "Reception",
     img: "/Images/lawn10.jpg",
     stars: 5,
-  },
+  },  
 ];
 
 export default function TestimonialsSection() {
