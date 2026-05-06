@@ -5,22 +5,22 @@ import Image from "next/image";
 import Link from "next/link";
 
 const galleryItems = [
-  { id: 1,  src: "/Images/ban2.jpg",  alt: "Vidhi Mandap Ceremony",    category: "weddings",     span: "short" },
-  { id: 2,  src: "/Images/hal2.jpg",  alt: "Grand Banquet Hall",       category: "venues",       span: "tall" },
-  { id: 3,  src: "/Images/lawn4.jpg",  alt: "Haldi Stage Setup",        category: "celebrations", span: "short" },
-  { id: 4,  src: "/Images/entrance1.jpg",  alt: "Bridal Entry",             category: "weddings",     span: "tall" },
-  { id: 5,  src: "/Images/fav.jpg",    alt: "Mehendi Ceremony",         category: "celebrations", span: "tall" },
-  { id: 6,  src: "/Images/lawn6.jpg",    alt: "Floral Arch Decor",        category: "decor",        span: "short" },
-  { id: 7,  src: "/Images/6.jpeg",    alt: "Open Sky Lawn at Night",   category: "venues",       span: "tall" },
+  { id: 1,  src: "/Images/ban2.jpg",  alt: "Grand Banquet Hall",    category: "weddings",     span: "short" },
+  { id: 2,  src: "/Images/hal2.jpg",  alt: "Haldi Stage Setup",       category: "venues",       span: "tall" },
+  { id: 3,  src: "/Images/lawn4.jpg",  alt: "Aisle Decor",        category: "celebrations", span: "short" },
+  { id: 4,  src: "/Images/entrance1.jpg",  alt: "Floral Canopy",             category: "weddings",     span: "tall" },
+  { id: 5,  src: "/Images/fav.jpg",    alt: "Fairytale Couple Entry",         category: "celebrations", span: "tall" },
+  { id: 6,  src: "/Images/lawn6.jpg",    alt: "Table Setup & Buffet",        category: "decor",        span: "short" },
+  { id: 7,  src: "/Images/6.jpeg",    alt: "Couple Potrait",   category: "venues",       span: "tall" },
   { id: 8,  src: "/Images/buffet4.jpg",    alt: "Table Setup & Buffet",     category: "decor",        span: "short" },
   { id: 9,  src: "/Images/sangeet.jpeg",    alt: "Sangeet Night",            category: "celebrations", span: "short" },
-  { id: 10, src: "/Images/entrance4.jpg",   alt: "Couple Portrait",          category: "weddings",     span: "tall" },
-  { id: 11, src: "/Images/entrance3.jpg",   alt: "Grand Entrance Gate",      category: "venues",       span: "short" },
+  { id: 10, src: "/Images/entrance4.jpg",   alt: "Floral Arch Decor",          category: "weddings",     span: "tall" },
+  { id: 11, src: "/Images/entrance3.jpg",   alt: "Baraat Procession",      category: "venues",       span: "short" },
   { id: 12, src: "/Images/entrance8.jpeg",   alt: "Mandap Close-up",          category: "decor",        span: "tall" },
-  { id: 13, src: "/Images/chandelier.jpg",   alt: "Royal Suite Room",         category: "venues",       span: "tall" },
-  { id: 14, src: "/Images/vidhi3.jpeg",   alt: "Baraat Procession",        category: "weddings",     span: "short" },
-  { id: 15, src: "/Images/deco.jpg",   alt: "Royal Suite Room",         category: "venues",       span: "tall" },
-  { id: 16, src: "/Images/vidhi2.jpeg",   alt: "Engagement Ring Ceremony", category: "celebrations", span: "short" },
+  { id: 13, src: "/Images/chandelier.jpg",   alt: "Opulent Crystal Chandelier",         category: "venues",       span: "tall" },
+  { id: 14, src: "/Images/vidhi3.jpeg",   alt: "Vidhi Mandap Ceremony",        category: "weddings",     span: "short" },
+  { id: 15, src: "/Images/deco.jpg",   alt: "Floating Floral Installations",         category: "venues",       span: "tall" },
+  { id: 16, src: "/Images/vidhi2.jpeg",   alt: "Mandap Close-up", category: "celebrations", span: "short" },
 ];
 
 const filters = [

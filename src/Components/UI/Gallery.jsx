@@ -8,17 +8,17 @@ import Link from "next/link";
 const images = {
   left: {
     src: "/Images/lawn9.jpg", 
-    alt: "Grand Banquet Hall",
+    alt: "Enchanting Lawn Ambience",
     category: "Venues",
   },
   rightTop: {
     src: "/Images/buffet5.jpg",
-    alt: "Bridal Entry",
+    alt: "Luxury Cocktail Bar Setup",
     category: "Weddings",
   },
   rightBottom: {
     src: "/Images/lawn2.jpg",
-    alt: "Mehendi Evening",
+    alt: "Elegant Buffet Counter",
     category: "Celebrations",
   },
 };
